@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vents Blog</title>
+    <link>https://vent-dot.github.io/</link>
+    <description>Recent content on Vents Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2024 19:26:15 +0000</lastBuildDate>
+    <atom:link href="https://vent-dot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://vent-dot.github.io/posts/mypost/</link>
+      <pubDate>Sun, 29 Dec 2024 19:26:15 +0000</pubDate>
+      <guid>https://vent-dot.github.io/posts/mypost/</guid>
+      <description>&lt;p&gt;this is my first post&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
